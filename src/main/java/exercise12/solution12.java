@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Fall 2021 Assignment 12 Solution
+ *  Copyright 2021 Isaac Lynch
+ */
+
 package exercise12;
 
 import java.util.Scanner;
@@ -39,7 +44,7 @@ public class solution12 {
 
     }
 }
-/* psuedocode: import the canner function. create class called simpledimple. inside of said
+/* psuedocode: import the scanner function. create class called simpledimple. inside of said
 class declare the doubles for principal and interest rate as well as the int for number of
 years. after that two public voids are made, one is scn which reads in everything to user
 puts, and then prt which does the calculation for the simple interest and then prints the
